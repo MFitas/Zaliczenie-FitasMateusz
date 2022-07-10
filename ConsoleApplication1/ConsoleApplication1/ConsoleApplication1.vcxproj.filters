@@ -18,5 +18,13 @@
     <ClCompile Include="Zaliczenie Fitas Mateusz.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Figura.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Figura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

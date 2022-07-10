@@ -1,0 +1,6 @@
+﻿  Zaliczenie Fitas Mateusz.cpp
+C:\Users\w65998\Desktop\Zaliczenie Fitas Mateusz\ConsoleApplication1\ConsoleApplication1\Zaliczenie Fitas Mateusz.cpp(84,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\w65998\Desktop\Zaliczenie Fitas Mateusz\ConsoleApplication1\ConsoleApplication1\Zaliczenie Fitas Mateusz.cpp(97,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\w65998\Desktop\Zaliczenie Fitas Mateusz\ConsoleApplication1\ConsoleApplication1\Zaliczenie Fitas Mateusz.cpp(97,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\w65998\Desktop\Zaliczenie Fitas Mateusz\ConsoleApplication1\ConsoleApplication1\Zaliczenie Fitas Mateusz.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\w65998\Desktop\Zaliczenie Fitas Mateusz\ConsoleApplication1\Debug\Zaliczenie Fitas Mateusz.exe
